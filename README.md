@@ -6,6 +6,8 @@
 
 ![grid-snake](https://raw.githubusercontent.com/brick9527/brick9527/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <!---
 brick9527/brick9527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
