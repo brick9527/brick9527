@@ -8,6 +8,8 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=brick9527&show_icons=true&theme=gotham)
+
 <!---
 brick9527/brick9527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
